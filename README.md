@@ -8,6 +8,7 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 
 <br><br>
 
+:page_with_curl: Check out my [Resume](https://www.abcd.com)
 
 <a href="https://www.linkedin.com/in/navya-verma/"> LinkedIn
   <img align="left" alt="Navya's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,4 +22,5 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="Navya's E-Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/maildotru.svg" />
 </a>
 
-<br />
+<br><br>
+I am also an Music Producer / Singer / Songwriter... [Listen to my music](https://linktr.ee/themauvision)
