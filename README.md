@@ -2,11 +2,10 @@
 ```javascript
 Hello GitHub!
 ``` 
-I'm Navya Verma, an aspiring Software Engineer and HCI-UX Enthusiast. <br>
+I am Navya Verma, an aspiring Software Engineer and HCI-UX Enthusiast. <br>
 I'm proficient in Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, R, Computer Vision, HTML, CSS, JavaScript. Also experienced in UI/UX Design and Human Computer Interaction, I am able to build user-centric and efficient applications. <br><br>
 I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborating 🤝, growing 🌱, upskilling and building impactful software through my work!
-
-<br>
+<br><br>
 - :page_with_curl: Check out my [Resume](https://ibb.co/9sk2fT6)
 
 - Get in Touch! 
