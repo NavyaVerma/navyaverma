@@ -20,11 +20,8 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
       <img align="left" alt="Navya's E-Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/maildotru.svg" />
     </a>
 
-
-
-
 <br>
-**Languages and Tools:** 
+**Languages and Tools:** <br>
 Python, Java, Jupyter, MySQL, R, HTML, CSS, JavaScript, Adobe XD, Figma, OpenCV
 
 <br><br>
