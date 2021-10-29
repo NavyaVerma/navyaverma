@@ -19,9 +19,13 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   - <a href="mailto:nverma10@outlook.com"> E-Mail
       <img align="left" alt="Navya's E-Mail ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/maildotru.svg" />
     </a>
-<!-
+
+
+
+
+<br>
 **Languages and Tools:** 
--->
+Python, Java, Jupyter, MySQL, R, HTML, CSS, JavaScript, Adobe XD, Figma, OpenCV
 
 <br><br>
 I am also a Audio Producer / Music Composer / Singer - [Listen to my music](https://linktr.ee/themauvision)
