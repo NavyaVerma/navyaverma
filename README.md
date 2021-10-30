@@ -3,7 +3,7 @@
 Hello GitHub!
 ``` 
 I am Navya Verma, an aspiring Software Engineer and HCI-UX Enthusiast. <br>
-I'm proficient in Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, R, Computer Vision, HTML, CSS, JavaScript. Also experienced in UI/UX Design and Human Computer Interaction, I am able to build user-centric and efficient applications. <br><br>
+Proficient in Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, R, Computer Vision, HTML, CSS, JavaScript, and experienced in UI/UX Design and Human Computer Interaction, I am able to build user-centric and robust applications, efficiently. <br><br>
 I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborating 🤝, growing 🌱, upskilling and building impactful software through my work!
 <br><br>
 - :page_with_curl: Check out my [Resume](https://ibb.co/9sk2fT6)
@@ -21,6 +21,19 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 
 <br>
 **Languages and Tools:** <br>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://jupyter.org/assets/nav_logo.svg"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/windows/32/000000/r-project.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma.png"/>
+<img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+
 Python, Java, Jupyter, MySQL, R, HTML, CSS, JavaScript, Adobe XD, Figma, OpenCV
 
 <br><br>
