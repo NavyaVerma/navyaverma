@@ -7,7 +7,7 @@ Proficient in Java, Python, Data Structures and Algorithms, Problem-Solving, SQL
 I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborating 🤝, growing 🌱, upskilling and building impactful software through my work!
 <br><br>
 
-- :page_with_curl: Check out my [Resume](https://ibb.co/9sk2fT6)
+- :page_with_curl: Check out my [Resume](https://www.dropbox.com/s/l8q3og5j79ft081/Navya-Verma_CV.pdf?dl=0)
 - Get in Touch! 
   - <a href="https://www.linkedin.com/in/navya-verma/"> LinkedIn
       <img align="left" alt="Navya's LinkdeIn" width="25px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" />
