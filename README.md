@@ -20,21 +20,22 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
     </a>
 
 <br>
-**Languages and Tools:** <br>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://jupyter.org/assets/nav_logo.svg"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/windows/32/000000/r-project.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/figma.png"/>
-<img src="https://img.icons8.com/color/48/000000/opencv.png"/>
-
-Python, Java, Jupyter, MySQL, R, HTML, CSS, JavaScript, Adobe XD, Figma, OpenCV
+<h3>Languages and Tools:</h3>
+<br>
+<p float="left">
+  <img align="left" alt="Java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  <img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python--v1.png">
+  <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png">
+  <img align="left" alt="HTML" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">
+  <img align="left" alt="CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png">
+  <img align="left" alt="MySQL" width="50px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png">
+  <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+  <img align="left" alt="R" width="50px" src="https://img.icons8.com/windows/32/000000/r-project.png">
+  <img align="left" alt="Adobe XD" width="50px" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png">
+  <img align="left" alt="Adobe Illsutrator" width="50px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png">
+  <img align="left" alt="Figma" width="50px" src="https://img.icons8.com/color/48/000000/figma.png">
+  <img align="left" alt="OpenCV" width="50px" src="https://img.icons8.com/color/48/000000/opencv.png">
+</p>
 
 <br><br>
 I am also a Audio Producer / Music Composer / Singer - [Listen to my music](https://linktr.ee/themauvision)
