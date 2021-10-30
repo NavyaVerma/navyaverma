@@ -18,10 +18,9 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   - <a href="mailto:nverma10@outlook.com"> E-Mail
       <img align="left" alt="Navya's E-Mail ID" width="25px" src="https://img.icons8.com/ios-glyphs/30/000000/filled-message.png" />
     </a>
-
 <br>
+<hr>
 <h3>Languages and Tools:</h3>
-<br>
 <p float="left">
   <img align="left" alt="Java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python--v1.png">
@@ -36,5 +35,13 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="Adobe Illsutrator" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/99px-Adobe_Illustrator_CC_icon.svg.png">
   <img align="left" alt="OpenCV" width="35x" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png"><br>
 </p>
+
+<br><hr>
 <br>
-<br>
+
+**More About Me** 👨‍💻
+- Computer Science student at _Vellore Institute of Technology, Vellore_.
+- Bachelor of Technology _(2018 - Present)_.
+- Worked as Backend Development Intern at SDNA Tech.
+- I also study Equity Market and read books on Investment Management.
+- I love to compose and produce music. [Listen to my original songs here](linktr.ee/TheMauvision)
