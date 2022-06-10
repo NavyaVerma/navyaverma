@@ -2,8 +2,8 @@
 ```javascript
 Hello GitHub!
 ``` 
-<h4>I am Navya Verma, an aspiring Software Engineer and HCI-UX Enthusiast.</h4>
-Proficient in Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, R, Computer Vision, HTML, CSS, JavaScript, and experienced in UI/UX Design and Human Computer Interaction, I am able to build user-centric and robust applications, efficiently. <br><br>
+<h4>I am Navya Verma, an aspiring Software Engineer and UX-UI Enthusiast.</h4>
+Proficient in Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Computer Vision, HTML, CSS, JavaScript, and experienced in UI/UX Design and Human Computer Interaction, I am able to build user-centric and robust applications, efficiently. <br><br>
 I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborating 🤝, growing 🌱, upskilling and building impactful software through my work!
 <br><br>
 
@@ -42,6 +42,7 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 **More About Me** 👨‍💻
 - Computer Science student at _Vellore Institute of Technology, Vellore_.
 - Bachelor of Technology _(2018 - Present)_.
+- Interning as a Full-Stack Engineer at Cognizant.
 - Worked as Backend Development Intern at SDNA Tech.
-- I also study Equity Market and read books on Investment Management.
+- I also study Equity Market and Investment Management.
 - I love to compose and produce music. [Listen to my original songs here](linktr.ee/TheMauvision)
