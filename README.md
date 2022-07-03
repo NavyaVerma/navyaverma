@@ -8,13 +8,10 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 <br><br>
 
 - :page_with_curl: Check out my [Resume](https://drive.google.com/file/d/1ZidM1aPp6rNAmPYbGoiNaRe0ripeY0pI/view?usp=sharing)
-- 
+
 - :wave: Get in Touch! 
-  - <a href="https://www.linkedin.com/in/navya-verma/"> LinkedIn
-      <img align="left" alt="Navya's LinkdeIn" width="25px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" /></a>
-      
-  - <a href="mailto:nverma10@outlook.com"> E-Mail
-      <img align="left" alt="Navya's E-Mail ID" width="25px" src="https://img.icons8.com/ios-glyphs/30/000000/filled-message.png" /></a>
+  - <a href="https://www.linkedin.com/in/navya-verma/"> LinkedIn <img align="left" alt="Navya's LinkdeIn" width="25px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" /></a>
+  - <a href="mailto:nverma10@outlook.com"> E-Mail <img align="left" alt="Navya's E-Mail ID" width="25px" src="https://img.icons8.com/ios-glyphs/30/000000/filled-message.png"/></a>
 <br>
 <hr>
 <h3>Languages and Tools:</h3>
