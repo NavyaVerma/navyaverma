@@ -24,8 +24,8 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="Jupyter" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png">
   <img align="left" alt="MySQL" width="60px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"><br><br><br>
   <img align="left" alt="HTML-CSS-JS" width="200px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
-  <img align="left" alt="Angular" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
-  <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma.png">
+  <img align="left" alt="Angular" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"><br>
+  <img align="left" alt="Figma" width="40px" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2">
   <img align="left" alt="Adobe XD" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png">
   <img align="left" alt="Adobe Illsutrator" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/99px-Adobe_Illustrator_CC_icon.svg.png">
 </p><br>
