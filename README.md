@@ -25,7 +25,7 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="MySQL" width="60px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"><br><br><br><br>
   <img align="left" alt="HTML-CSS-JS" width="180px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
   <img align="left" alt="Angular" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
-  <img align-"left" alt="Bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"><br><br><br><br><br>
+  <img align-"left" alt="Bootstrap" width="70px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"><br><br><br><br><br>
   <img align="left" alt="Figma" width="52px" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2">
   <img align="left" alt="Adobe XD" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
   <img align="left" alt="Adobe Illsutrator" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/99px-Adobe_Illustrator_CC_icon.svg.png">
