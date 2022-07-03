@@ -20,12 +20,12 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="Java" width="120px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png"><br>
   <img align="left" alt="Spring" width="160px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
   <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg"><br><br><br><br><br>
-  <img align="left" alt="Python" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
+  <img align="left" alt="Python" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
   <img align="left" alt="Jupyter" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"><br>
   <img align="left" alt="HTML" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">
   <img align="left" alt="CSS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png">
   <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
-  <img align="left" alt="JavaScript" width="50px" src="https://p.kindpng.com/picc/s/171-1718053_html-css-javascript-png-transparent-png.png">
+  <img align="left" alt="HTML-CSS-JS" width="250px" src="https://p.kindpng.com/picc/s/171-1718053_html-css-javascript-png-transparent-png.png">
   <img align="left" alt="Angular" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
   <img align="left" alt="MySQL" width="60px" src="https://brandslogos.com/wp-content/uploads/images/mysql-logo-1.png">
   <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma.png">
