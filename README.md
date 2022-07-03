@@ -19,9 +19,9 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 <p float="left">
   <img align="left" alt="Java" width="120px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png"><br>
   <img align="left" alt="Spring" width="160px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
-  <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg">
+  <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg"><br><br><br>
   <br><img align="left" alt="Python" width="180px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
-  <img align="left" alt="Jupyter" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png">
+  <img align="left" alt="Jupyter" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"><br>
   <img align="left" alt="MySQL" width="80px" src="https://lintel-blogs-static-files.s3.amazonaws.com/wp-content/uploads/2021/06/01092052/MySQL-Logo.wine_-1024x683.png"><br><br><br>
   <img align="left" alt="HTML-CSS-JS" width="220px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
   <img align="left" alt="Angular" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
