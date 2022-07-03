@@ -17,9 +17,9 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 <hr>
 <h3>Languages and Tools:</h3>
 <p float="left">
-  <img align="left" alt="Java" width="100px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png">
-  <img align="left" alt="Spring" width="100px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
-  <img align="left" alt="Maven" width="190px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg">
+  <img align="left" alt="Java" width="80px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png">
+  <img align="left" alt="Spring" width="160px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+  <img align="left" alt="Maven" width="200px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg"><br>
   <img align="left" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png">
   <img align="left" alt="HTML" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">
