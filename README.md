@@ -8,7 +8,8 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 <br><br>
 
 - :page_with_curl: Check out my [Resume](https://drive.google.com/file/d/1ZidM1aPp6rNAmPYbGoiNaRe0ripeY0pI/view?usp=sharing)
-- Get in Touch! 
+- 
+- :wave: Get in Touch! 
   - <a href="https://www.linkedin.com/in/navya-verma/"> LinkedIn
       <img align="left" alt="Navya's LinkdeIn" width="25px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" /></a>
       
