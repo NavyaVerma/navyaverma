@@ -19,7 +19,7 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 <p float="left">
   <img align="left" alt="Java" width="50px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png">
   <img align="left" alt="Spring" width="50px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg">
-  <img align="left" alt="Maven" width="50px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg">
+  <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg">
   <img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python--v1.png">
   <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png">
   <img align="left" alt="HTML" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">
@@ -30,7 +30,6 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma.png">
   <img align="left" alt="Adobe XD" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png">
   <img align="left" alt="Adobe Illsutrator" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/99px-Adobe_Illustrator_CC_icon.svg.png">
-  <img align="left" alt="OpenCV" width="35x" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png"><br>
 </p><br>
 
 <br><hr>
