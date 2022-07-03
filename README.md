@@ -21,8 +21,8 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="Spring" width="160px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
   <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg"><br><br><br>
   <br><img align="left" alt="Python" width="180px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
+  <img align="left" alt="MySQL" width="60px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg">
   <img align="left" alt="Jupyter" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png">
-  <img align="left" alt="MySQL" width="60px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"> &nbsp; &nbsp; &nbsp;
   <img align="left" alt="AWS" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg"><br><br><br><br>
   <img align="left" alt="HTML-CSS-JS" width="180px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
   <img align="left" alt="Angular" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
