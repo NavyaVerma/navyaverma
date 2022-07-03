@@ -21,10 +21,10 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
   <img align="left" alt="Spring" width="160px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
   <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.purevec.svg"><br><br><br><br><br>
   <img align="left" alt="Python" width="180px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
-  <img align="left" alt="Jupyter" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"><br>
+  <img align="left" alt="Jupyter" width="100px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png">
+  <img align="left" alt="MySQL" width="60px" src="https://brandslogos.com/wp-content/uploads/images/mysql-logo-1.png"><br><br>
   <img align="left" alt="HTML-CSS-JS" width="220px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
   <img align="left" alt="Angular" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
-  <img align="left" alt="MySQL" width="60px" src="https://brandslogos.com/wp-content/uploads/images/mysql-logo-1.png">
   <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma.png">
   <img align="left" alt="Adobe XD" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png">
   <img align="left" alt="Adobe Illsutrator" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/99px-Adobe_Illustrator_CC_icon.svg.png">
