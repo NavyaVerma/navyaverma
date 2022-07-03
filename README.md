@@ -17,7 +17,7 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 <hr>
 <h3>Languages and Tools:</h3>
 <p float="left">
-  <img align="left" alt="Java" width="70px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  <img align="left" alt="Java" width="50px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
   <img align="left" alt="Spring" width="50px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg">
   <img align="left" alt="Maven" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
   <img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python--v1.png">
