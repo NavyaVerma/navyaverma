@@ -19,6 +19,7 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 <p float="left">
   <img align="left" alt="Java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img align="left" alt="Java" width="50px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg">
+  <img align="left" alt="Java" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
   <img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python--v1.png">
   <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png">
   <img align="left" alt="HTML" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">
