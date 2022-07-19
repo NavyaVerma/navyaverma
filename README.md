@@ -3,7 +3,7 @@
 Hello World.
 ``` 
 <h4>I am Navya Verma, an aspiring Software Engineer and UX-UI Enthusiast.</h4>
-Proficient in Server-Side and Client-Side Development, and experienced in UX/UI Design, I am able to build user-centric and robust applications, efficiently and collaboratively. <br><br>
+Proficient in Server-Side and Client-Side Development, and well-acquainted with User Experience principles, I am able to build user-centric and robust applications, efficiently and collaboratively. <br><br>
 I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborating 🤝, growing 🌱, upskilling and building impactful software through my work!
 <br><br>
 
