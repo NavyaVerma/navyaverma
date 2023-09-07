@@ -36,9 +36,10 @@ I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborati
 
 **More About Me** 👨‍💻
 - Computer Science student at _Vellore Institute of Technology, Vellore_.
-- Bachelor of Technology _(2018 - Present)_.
-- Interning as a Full-Stack Engineer at Cognizant.
-- Worked as Backend Development Intern at SDNA Tech.
+- Bachelor of Technology _(2018 - 2022)_.
+- Working as Programmer Analyst at Cognizant.
+- Intered as a Full-Stack Engineer at Cognizant.
+- Interned as Backend Developer at SDNA Tech.
 - I also study Equity Market and Investment Management.
-- Visit my UX Portfolio here: [navya-verma.com](navya-verma.com)
+- Visit my UX Portfolio here: [vermanavya.com](vermanavya.com)
 - I love to compose and produce music. [Listen to my original songs here](linktr.ee/TheMauvision)
