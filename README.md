@@ -7,7 +7,7 @@ Proficient in Server-Side and Client-Side Development, and well-acquainted with 
 I look forward to absorbing knowledge 🧠, gaining experience 🏭, collaborating 🤝, growing 🌱, upskilling and building impactful software through my work!
 <br><br>
 
-- :page_with_curl: Check out my [Resume](https://drive.google.com/file/d/1ZidM1aPp6rNAmPYbGoiNaRe0ripeY0pI/view?usp=sharing)
+- :page_with_curl: Check out my [Resume](https://drive.google.com/file/d/1jlFwnzFjMVDUntYZgcaggUDBerlBP82T/view?usp=sharing)
 
 - :wave: Get in Touch! 
   - <a href="https://www.linkedin.com/in/navya-verma/"> LinkedIn <img align="left" alt="Navya's LinkdeIn" width="25px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" /></a>
